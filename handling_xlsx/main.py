@@ -4,5 +4,5 @@
 """
 from classReadFile import ReadFile
 
-Obj = ReadFile("AB","PLC")
+Obj = ReadFile("ABB","PLC")
 Obj.find()
